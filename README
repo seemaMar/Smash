@@ -12,7 +12,7 @@ The history command will remind you of your inputs.
 Compiling and Using
 In order to compile this program, find the proper directory holding the project.
 Type 'make', upon inspection you'll realize you have an executable smash now,
-simply type ./smash next. Now you can input anything you want.
+simply type ./smash next. Now you can input any command you want.
 
 Testing
 Parts 1 and 2 of smash were thoroughly tested using the autograder.
